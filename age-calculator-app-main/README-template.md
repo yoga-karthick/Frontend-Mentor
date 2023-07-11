@@ -16,8 +16,6 @@ This is a solution to the [Age calculator app challenge on Frontend Mentor](http
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -38,14 +36,6 @@ Users should be able to:
 ### Screenshot
 ![desktop-view](https://github.com/yoga-karthick/Frontend-Mentor/assets/80122088/a80f2f05-9eae-49d3-b2e7-49af1bbe2c09)
 ![mobile-view](https://github.com/yoga-karthick/Frontend-Mentor/assets/80122088/19ea2faa-760e-4bb0-b152-d4727ccc252c)
-
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
 
 ### Built with
 
