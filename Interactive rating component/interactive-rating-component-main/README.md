@@ -1,6 +1,6 @@
 (![image](https://github.com/yoga-karthick/front-end-mentor-challanges-/assets/80122088/91bb673a-f2df-437e-8e53-b84d4435d5b2))# Frontend Mentor - interactive rating component solution
 
-This is a solution to the [Age calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the Interactive rating component challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
