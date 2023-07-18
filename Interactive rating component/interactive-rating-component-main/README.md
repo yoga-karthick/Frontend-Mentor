@@ -17,11 +17,11 @@ Users should be able to:
 -Select and submit a number rating
 -See the "Thank you" card state after submitting a rating
 
-### Screenshot
-![view-state](![image](https://github.com/yoga-karthick/front-end-mentor-challanges-/assets/80122088/91bb673a-f2df-437e-8e53-b84d4435d5b2)
-![selecting the rating](![image](https://github.com/yoga-karthick/front-end-mentor-challanges-/assets/80122088/e6329841-dd01-435f-bbfd-f7d1d4484585)
-![thank-you section](![image](https://github.com/yoga-karthick/front-end-mentor-challanges-/assets/80122088/bb5d8c36-a690-4b5b-9511-4599ea38cdb9)
 
+### Screenshot
+![view-state]![image](https://github.com/yoga-karthick/front-end-mentor-challanges-/assets/80122088/91bb673a-f2df-437e-8e53-b84d4435d5b2)
+![selecting the rating]![image](https://github.com/yoga-karthick/front-end-mentor-challanges-/assets/80122088/e6329841-dd01-435f-bbfd-f7d1d4484585)
+![thank-you section](![image](https://github.com/yoga-karthick/front-end-mentor-challanges-/assets/80122088/bb5d8c36-a690-4b5b-9511-4599ea38cdb9)
 
 
 ### Built with
