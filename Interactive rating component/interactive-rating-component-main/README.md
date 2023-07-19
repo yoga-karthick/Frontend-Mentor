@@ -7,6 +7,7 @@ This is a solution to the Interactive rating component challenge on Frontend Men
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [links](#links)
   - [Built with](#built-with)
 - [Author](#author)
 ### The challenge
