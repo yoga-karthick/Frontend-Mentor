@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://youcanrateit.netlify.app 
+- Live Site URL: https://youcanrateit.netlify.app 
 
 ### Built with
 
