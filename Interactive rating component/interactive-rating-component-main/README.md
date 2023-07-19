@@ -24,6 +24,10 @@ Users should be able to:
 ![selecting the rating]![image](https://github.com/yoga-karthick/front-end-mentor-challanges-/assets/80122088/e6329841-dd01-435f-bbfd-f7d1d4484585)
 ![thank-you section](![image](https://github.com/yoga-karthick/front-end-mentor-challanges-/assets/80122088/bb5d8c36-a690-4b5b-9511-4599ea38cdb9)
 
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: (https://youcanrateit.netlify.app 
 
 ### Built with
 
